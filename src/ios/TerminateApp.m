@@ -1,4 +1,4 @@
-#import "ExitApp.h"
+#import "TerminateApp.h"
 
 @implementation TerminateApp
 
