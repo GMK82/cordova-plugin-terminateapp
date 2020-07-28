@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Cordova terminate application plugin",
+  "cordova": {
+    "id": "cordova-plugin-terminateapp",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMK82/cordova-plugin-terminateapp.git"
+  },
+  "keywords": [
+    "cordova",
+    "terminate",
+    "exit",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Georgy Mkhitarov",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/GMK82/cordova-plugin-terminateapp/issues"
+  },
+  "homepage": "https://github.com/GMK82/cordova-plugin-terminateapp#readme"
+}
