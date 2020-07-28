@@ -7,7 +7,7 @@
     <license>Apache 2.0</license>
     <keywords>cordova,terminate,exit</keywords>
     <js-module src="www/TerminateApp.js" name="terminateApp">
-        <merges target="navigator.app" />
+      <clobbers target="navigator.app" />
     </js-module>
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
